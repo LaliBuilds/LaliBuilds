@@ -1,4 +1,4 @@
-### Hello, I'm LarissaSilva, a Jr. Front End Developer! 👋
+### Hello, I'm a Jr. Front End Developer! 👋
 
 <!--
 **lasilvadev/lasilvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
