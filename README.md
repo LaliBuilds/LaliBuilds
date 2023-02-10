@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasilvadev&layout=compact&theme=radical)](https://github.com/lasilvadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasilvadev&layout=compact&theme=nightowl)](https://github.com/lasilvadev/github-readme-stats)
+
