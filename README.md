@@ -7,11 +7,11 @@
 
 <h3>Socials</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lasilvadev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mslarissasilva/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lasilvadev)
-[![DevianArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/lissamachado)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lissamachado)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lasilvadev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mslarissasilva/)
+[![Behance](https://img.shields.io/badge/-Behance-222222?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lasilvadev)
+[![DevianArt](https://img.shields.io/badge/DeviantArt-222222?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/lissamachado)
+[![Spotify](https://img.shields.io/badge/Spotify-222222?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lissamachado)
  
 <h3>Skills</h3> 
 <div style="display: inline_block" >
@@ -20,5 +20,7 @@
   <img align="center" alt="javascript" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
   <img align="center" alt="react" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
   <img align="center" alt="figma" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
+  <img align="center" alt="ps" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
+  <img align="center" alt="autocad" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg">
 </div>
-<br>
+<br> 
