@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mslarissasilva/)
 [![Behance](https://img.shields.io/badge/-Behance-222222?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lasilvadev)
 [![DevianArt](https://img.shields.io/badge/DeviantArt-222222?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/lissamachado)
-[![Spotify](https://img.shields.io/badge/Spotify-222222?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lissamachado)
  
 <h3>Skills</h3> 
 <div style="display: inline_block" >
