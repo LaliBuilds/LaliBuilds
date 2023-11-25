@@ -1,8 +1,8 @@
 
 <h1>Hello, devs! 👋</h1>
 <h3>Currently:</h3>
-✨ <b>Studying</b> and Working in another area<br>
-🌱 Learning <b>React.js</b><br>
+✨ <b>Studying</b> and Working as an architect<br>
+🌱 Improving my skills in <b>React.js</b><br>
 🚀 Aiming for <b>Front End Development</b>
 
 <h3>Socials</h3>
