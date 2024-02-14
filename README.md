@@ -7,7 +7,7 @@
 
 <h3>Socials</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lasilvadev/)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lali.codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mslarissasilva/)
 [![Behance](https://img.shields.io/badge/-Behance-222222?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lasilvadev)
 [![DevianArt](https://img.shields.io/badge/DeviantArt-222222?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/lissamachado)
