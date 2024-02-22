@@ -1,11 +1,13 @@
 
 <h1 align="center">Hello 👋 I'm Larissa!</h1>
-<div align="center">
-<h4>Currently...</h4>
-🎓 In university again, studying <b>Computer Science</b><br>
-✨ Freelancing in web design and working as an architect<br>
-🌱 Improving my skills in <b>React.js</b><br>
-🚀 Aiming for <b>Front End Development</b>
+
+<div align="left">
+<p>I'm currently...</p>
+🎓  In university again, studying <b>Computer Science</b><br>
+✨  Freelancing in web design and working as an architect<br>
+🧠  Improving my skills in <b>React.js</b><br>
+🚀  Aiming for <b>Front End Development</b><br>
+🌍  I'm based in Brazil
 </div>
   
 <h3 align="center">Skills</h3> 
@@ -24,8 +26,5 @@
 <a href="https://twitter.com/lalicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalicodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mslarissasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mslarissasilva" height="30" width="40" /></a>
 <a href="https://instagram.com/lali.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lali.codes" height="30" width="40" /></a>
-<a href="https://www.behance.net/lasilvadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lasilvadev" height="30" width="40" /></a>
+<a href="https://www.threads.net/@lali.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" alt="threads lali.codes" height="30" width="40" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" media="(prefers-color-scheme: dark)"/></a>
 </p>
-
-
-
