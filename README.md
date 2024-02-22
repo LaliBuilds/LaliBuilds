@@ -34,11 +34,17 @@
 <br> 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/lalicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalicodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mslarissasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mslarissasilva" height="30" width="40" /></a>
 <a href="https://instagram.com/lali.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lali.codes" height="30" width="40" /></a>
 <a href="https://www.threads.net/@lali.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" alt="threads lali.codes" height="30" width="40" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" media="(prefers-color-scheme: dark)"/></a>
 </p>
+<div align="center">
+  
+ [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/lasilvadev)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mslasilva) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lasilvahere) 
+
+</div>
 
 
 
