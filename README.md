@@ -29,7 +29,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
+![Inkscape](https://img.shields.io/badge/Inkscape-000008?style=flat&logo=inkscape&logoColor=ffffff)
+![Mermaid](https://img.shields.io/badge/Mermaid-000000?style=flat&logo=mermaid&logoColor=fd549e)
   </div>
 <br> 
 <h3 align="center">Connect with me</h3>
