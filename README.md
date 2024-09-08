@@ -4,10 +4,11 @@
 <div align="left">
   <p><i>Or just <b>Lali</b></i> 🌸 </p>
 <p>I'm currently...<br>
-🎓  In university again, studying <b>Computer Science</b><br>
-✨  Freelancing in web design and development, while also working as an architect<br>
+🎓  In university (one more time), studying <b>Computer Science</b><br>
+✨  Freelancing in web design and development<br>
+💻  Woking with systems implementation and social media marketing<br>  
 🧠  Improving my skills in <b>React</b><br>
-🚀  Migrating from JS to <b>TypeScript</b><br>
+🚀  Migrating from JavaScript to <b>TypeScript</b><br>
 🌍  I'm based in Brazil
   </p>
 </div>
