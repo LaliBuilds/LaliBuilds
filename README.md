@@ -36,7 +36,7 @@
 </div>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://instagram.com/lali.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lali.codes" height="25" width="35" /></a>
+  <a href="https://instagram.com/lalimachs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lali.codes" height="25" width="35" /></a>
   <a href="https://linkedin.com/in/mslarissasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mslarissasilva" height="25" width="35" /></a>
 </p>
 <div align="center">
