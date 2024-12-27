@@ -1,15 +1,12 @@
 
-<h1 align="center">Hello 👋 I'm Larissa!</h1>
+<h1>Hello 👋 I'm Lalis!</h1>
 
 <div align="left">
-  <p><i>Or just <b>Lali</b></i> 🌸 </p>
 <p>I'm currently...<br>
-✨  Front End Developer & UI/UX Designer<br>  
-🎓  In university (one more time), studying <b>Computer Science</b><br>
-🧠  Improving my skills in <b>React</b><br>
-🚀  Migrating from JavaScript to <b>TypeScript</b><br>
-🌍  I'm based in Brazil
-  </p>
+✨  a Front End Developer & UI/UX Designer<br>  
+🎓  getting a second degree in <b>Computer Science</b><br>
+🧠  improving my skills in <b>development</b><br>
+</p>
 </div>
   
 <h3 align="center">Skills</h3> 
