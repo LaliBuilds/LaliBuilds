@@ -30,10 +30,3 @@
   ![Mermaid](https://img.shields.io/badge/Mermaid-1d1e1f?style=flat&logo=mermaid&logoColor=E8B3D1)
   ![Netlify](https://img.shields.io/badge/netlify-1d1e1f.svg?style=flat&logo=netlify&logoColor=#E8B3D1)
 </div>
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://instagram.com/lalimachs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lali.codes" height="25" width="35" /></a>
-  <a href="https://linkedin.com/in/mslarissasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mslarissasilva" height="25" width="35" /></a>
-</p>
-<div align="center">
-</div>
