@@ -2,31 +2,6 @@
 <h1>Hello 👋 I'm Lalis!</h1>
 
 <div align="left">
-<p>I'm currently...<br>
-✨  a Front End Developer & UI/UX Designer<br>  
-🎓  getting a second degree in <b>Computer Science</b><br>
-🧠  improving my skills in <b>development</b><br>
+✨  Front End Software Developer & UI/UX Designer<br>  
 </p>
-</div>
-  
-<h3 align="center">Skills</h3> 
-<div align="center" style="display: inline_block;" >
-  <img align="center" alt="html" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
-  <img align="center" alt="css" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
-  <img align="center" alt="javascript" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
-  <img align="center" alt="react" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
-  <img align="center" alt="figma" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
-  <img align="center" alt="ps" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
-</div>
-<br>
-<div align="center">
-  
-  ![GithubPages](https://img.shields.io/badge/github%20pages-1d1e1f?style=flat&logo=github&logoColor=E8B3D1) 
-  ![React Router](https://img.shields.io/badge/React_Router-1d1e1f?style=flat&logo=react-router&logoColor=E8B3D1) 
-  ![Markdown](https://img.shields.io/badge/markdown-1d1e1f.svg?style=flat&logo=markdown&logoColor=E8B3D1) 
-  ![Vite](https://img.shields.io/badge/vite-1d1e1f.svg?style=flat&logo=vite&logoColor=E8B3D1) 
-  ![Canva](https://img.shields.io/badge/Canva-1d1e1f.svg?style=flat&logo=Canva&logoColor=E8B3D1) 
-  ![Docker](https://img.shields.io/badge/docker-1d1e1f.svg?style=flat&logo=docker&logoColor=E8B3D1) 
-  ![Mermaid](https://img.shields.io/badge/Mermaid-1d1e1f?style=flat&logo=mermaid&logoColor=E8B3D1)
-  ![Netlify](https://img.shields.io/badge/netlify-1d1e1f.svg?style=flat&logo=netlify&logoColor=#E8B3D1)
 </div>
