@@ -1,5 +1,5 @@
 
-<h1>Hello 👋 I'm Lalis!</h1>
+<h2>Hello! 👋</h2>
 
 <div align="left">
 ✨  Front End Software Developer & UI/UX Designer<br>  
