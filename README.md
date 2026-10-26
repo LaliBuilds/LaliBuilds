@@ -42,11 +42,9 @@ Expanding my skills in software development, UI/UX, and product design through c
 
 🤝 Let’s Connect
 
-* Portfolio: https://larissasilva.site/
 * Behance: https://www.behance.net/lalicamargo
 * LinkedIn: https://www.linkedin.com/in/lisa-camargo
-* Email: lisacamargo.tech@gmail.com
-
+* 
 ⸻
 
 Building useful things, making them intuitive, and giving them a little personality.
