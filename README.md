@@ -1,6 +1,6 @@
 # Hi, I'm Larissa Camargo 👋
 
-**Product Designer · UI/UX Designer · Front-end Developer**
+**Product Designer · UI/UX Designer · Front-end Developer · Digital Systems Builder**
 
 I design and build digital products that make complex workflows feel simple. With a background in Architecture, design, and software development, I bring a mix of systems thinking, visual craft, and hands-on technical skills to every project.
 
@@ -13,14 +13,11 @@ I design and build digital products that make complex workflows feel simple. Wit
 
 ## Selected projects
 
-- **[Winsy](https://github.com/LaliBuilds/winsy)** — A work management and career evidence product that helps professionals organise tasks, document results, and turn achievements into proof of impact.  
+- **Winsy** — A work management and career evidence product that helps professionals organise tasks, document results, and turn achievements into proof of impact.  
   *Product design · React · TypeScript · Supabase · PostgreSQL · PWA*
 
-- **[PX Field](https://github.com/LaliBuilds/PXField)** — A workflow and quoting platform for tiling and flooring businesses, from measurements and specifications to labour estimates.  
+- **PX Field** — A workflow and quoting platform for tiling and flooring businesses, from measurements and specifications to labour estimates.  
   *Product strategy · UX/UI · React · TypeScript · TanStack · Tailwind CSS*
-
-- **[EURO](https://eurotiling.ie)** — Brand and website for a tiling and flooring business, including project gallery and quote-request flow.  
-  *Brand design · React · Supabase · Tailwind CSS · Cloudflare Workers*
 
 - **Strato** — A project cost management system with expense tracking, dashboards, and reporting.  
   *UX/UI · React · TypeScript · Supabase*
